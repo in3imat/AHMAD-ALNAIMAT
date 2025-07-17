@@ -25,9 +25,9 @@
 ---
 
 <!-- You can add links below when you're ready -->
-<!--
+
 ### 🔗 Connect with Me
 - 📫 Email: ahmadalnaimat3@gmail.com
 - 💼 LinkedIn:www.linkedin.com/in/in3imat
-- 🌐 Portfolio: [your portfolio]
--->
+- 🌐 Portfolio:
+
